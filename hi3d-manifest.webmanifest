@@ -1,0 +1,26 @@
+{
+  "id": "./hi3d-memory.html",
+  "name": "Les mots ont une mémoire",
+  "short_name": "Mots mémoire",
+  "lang": "fr",
+  "description": "Écoute, mémorise et retrouve le mot caché.",
+  "start_url": "./hi3d-memory.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#6856a2",
+  "icons": [
+    {
+      "src": "hi3d-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "hi3d-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+LES MOTS ONT UNE MÉMOIRE — PREMIÈRE VERSION INSTALLABLE
+
+Cette copie conserve les 93 niveaux, les indices et les corrections de prononciation du jeu existant. Chaque carte dure cinq secondes. Le mot entier doit être saisi pour continuer.
+
+NOUVEAUTÉS
+Icône d’application, affichage autonome, ressources mises en cache pour jouer hors connexion, niveau courant et niveaux réussis conservés dans le navigateur. La sonorisation repose sur une voix française locale de l’appareil, avec le fichier audio de correction déjà présent dans le jeu. Aucune nouvelle voix payante ni service distant ajouté.
+
+ESSAYER SUR ORDINATEUR
+Dans le client, utiliser « navigateur prévisualisation » à côté du lien HTML. Attendre le message « Jeu prêt hors connexion ». Ne pas double-cliquer le HTML pour tester l’installation : file:// ne permet pas le fonctionnement attendu.
+
+INSTALLER SUR TÉLÉPHONE
+Faire héberger tout ce dossier ensemble sur un site HTTPS, sans changer les noms ni les chemins relatifs. Aucun déploiement n’a été effectué par cette préparation. Ouvrir l’adresse du fichier hi3d-memory.html sur le téléphone. Android / Chrome : menu Installer ou Ajouter à l’écran d’accueil. iPhone / iPad / Safari : Partager, Sur l’écran d’accueil. Le libellé peut varier. Laisser le jeu finir sa préparation avant de couper Internet.
+
+SON
+Vérifier les voix françaises disponibles dans les paramètres vocaux du téléphone. La lecture hors connexion dépend de l’installation d’une voix française locale. Sans cette voix, utiliser l’option Jouer sans le son. Une validation de la lecture et des prononciations sur de vrais appareils reste nécessaire ; les essais automatisés de voix simulées ne remplacent pas l’écoute.
+
+PROGRESSION ET VIE PRIVÉE
+Pas de compte ni suivi ajouté. La progression est locale au navigateur et à l’adresse du site. Elle n’est pas synchronisée entre téléphones. Effacer les données du site ou changer de navigateur peut la supprimer. Un changement de domaine ne transfère pas la sauvegarde. Recommencer depuis le dernier niveau réinitialise les réussites, comme dans le jeu d’origine.
+
+PUBLICATION
+Ce dossier est une application web progressive ; il ne contient pas de fichier APK ou IPA et n’est pas publié sur Google Play ou l’App Store. La mise en ligne sur HTTPS et les essais réels Android/iPhone constituent les étapes suivantes.
+
+Original conservé séparément dans exports/memory. Cette copie n’ajoute ni publicité ni paiement.
