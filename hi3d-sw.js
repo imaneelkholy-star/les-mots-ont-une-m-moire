@@ -1,6 +1,6 @@
 'use strict';
 const prefix = 'hi3d-memory-pwa:' + new URL(self.registration.scope).pathname + ':';
-const cacheName = prefix + 'v5';
+const cacheName = prefix + 'v6';
 const files = ["hi3d-ensuque-prononciation.wav", "hi3d-game.js", "hi3d-icon-180.png", "hi3d-icon-192.png", "hi3d-icon-512.png", "hi3d-install.js", "hi3d-lisez-moi.txt", "hi3d-manifest.webmanifest", "hi3d-memory.html", "hi3d-style.css"];
 const urls = files.map(file => new URL(file, self.registration.scope).href);
 self.addEventListener('install', event => {
